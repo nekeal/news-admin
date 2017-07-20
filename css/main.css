@@ -1,0 +1,106 @@
+body{
+    background: #222;
+    color: #1a4c67;
+    margin: 0;
+    padding: 0;
+    font-family: Lato;
+}
+
+.container{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 1080px;
+}
+
+header{
+    height: 100px;
+    background: #1a4c67;
+    color: #fff;
+    font-size: 50px;
+    text-align: center;
+}
+header>#timer>img
+{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    top:5px;
+    right: 15px;
+    /*border-right: 1px dotted #58C1E8 ;*/
+}
+#logo
+{
+    width: 25%;
+    float: left;
+    border-right:2px dotted #58C1E8 ;
+    padding: 5px 0;
+}
+h3{
+    font-size: 80px;
+    margin: 0;
+}
+#timer
+{
+    float: left;
+    width: 75%;
+    text-transform: uppercase;
+    padding: 5px 0;
+}
+#sidebar{
+    position: relative;
+    float: left;
+    width: 25%;
+    height: 900px;
+
+    background: #222;
+}
+
+#content{
+    position: relative;
+    float: left;
+    width: 75%;
+    height: 900px;
+    
+    background: #d8ecf3;
+}
+
+h1{
+    text-align: justify;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: -25% 0 0 -50%;
+    width: 100%;
+    height: 800px;
+    padding: 0 10%;
+}
+
+.title{
+    height: 10%;
+    position: relative;
+    text-align: center;
+    background: #58C1E8;
+}
+h2{
+    position: absolute;
+    top: 50%;
+    height: 100%;
+    width: 100%;
+    font-size: 28px;    
+    margin: -14px 0 0 0;
+    padding: 0;
+}
+.active
+{
+    background: #d8ecf3;
+    border-right: 2px dotted #58C1E8;
+    border-left: 2px dotted #58C1E8;
+}
+
+footer{
+    clear: both;
+    height:80px;
+    background: #1a4c67;
+    width: 100%
+}

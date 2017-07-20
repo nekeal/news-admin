@@ -1,0 +1,42 @@
+{
+  "news": [ 
+        {
+            "id": 1,
+            "status": 0,
+            "title": "rekarutacja",
+            "content": "rekrutacja na prawo"
+        },
+        {
+            "id": 2,
+            "status": 0,
+            "title": "rekarutacja1",
+            "content": "rekrutacja na prawo1"
+        },
+        {
+            "id": 3,
+            "status": 1,
+            "title": "rekarutacja2",
+            "content": "rekrutacja na prawo2"
+        },
+        {
+            "id": 4,
+            "status": 0,
+            "title": "rekarutacja3",
+            "content": "rekrutacja na prawo3"
+        },
+        {
+            "id": 5,
+            "status": 1,
+            "title": "rekarutacja4",
+            "content": "rekrutacja na prawo4"
+        },
+        {
+            "id": 6,
+            "status": 1,
+            "title": "rekarutacja5",
+            "content": "testLorem Ipsum dolor sit amet testLorem Ipsum dolor sit amet testLorem Ipsum dolor sit amet testLorem Ipsum dolor sit amet testLorem Ipsum dolor sit amet testLorem Ipsum dolor sit amettestLorem Ipsum dolor sit ametvftestLorem Ipsum dolor sit amet testLorem Ipsum dolor sit amet"
+        }
+    ] 
+
+
+}
